@@ -21,9 +21,10 @@ Traditional autonomous swarm infrastructure suffers from severe vulnerabilities 
 KhanBMS eliminates this single point of failure by enforcing an automated **Decimal Command Paradigm**, scaling cleanly across multi-agent systems via self-healing local tiers[cite: 1, 2]:
 
 ### The Decimal Framework:
-*   **Arban Layer (10 Edge Nodes):** Autonomous AI agents operate at the tactical edge, handling local telemetry arrays and workflows independently[cite: 1, 2].
-*   **Zuun Layer (100 Nodes / 10 Arbans):** Sub-swarm coordination layers that act as a condensed data relay, reducing wide-area network traffic requirements by up to 90%[cite: 1, 2].
-*   **Tumen Layer (10,000 Nodes / 100 Zuuns):** Mass-scale theater orchestration designed for infinite modular scalability[cite: 1, 2].
+*   **Arban Layer (10 Edge Nodes):** Autonomous AI agents operating at the tactical edge, handling local telemetry arrays and workflows independently.
+*   **Zuun Layer (100 Nodes / 10 Arbans):** Sub-swarm coordination layers that act as a condensed data relay, reducing local network overhead.
+*   **Minghan Layer (1,000 Nodes / 10 Zuuns):** Regional Cluster Orchestrators. This layer aggregates data from ten sub-swarms, managing local theater positioning and complex multi-agent assignments without overloading wide-area channels.
+*   **Tumen Layer (10,000 Nodes / 10 Minghans):** Mass-scale theater orchestration designed for infinite, strategic scalability across global or orbital dimensions[cite: 1, 2].
 
 ---
 
